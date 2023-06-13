@@ -1,0 +1,66 @@
+.icon-tt {
+    width: 50px;
+    margin-top: 20px;
+}
+
+.bi {
+    font-size: 1.5rem;
+    color: #fff;
+}
+
+.profile-pic-icon {
+    width: 50px;
+    border-radius: 100%;
+}
+
+.menuleft-container{
+    width: 15%;
+    height: 100vh;
+    border-right: 1px solid #ffffff2f;
+    display: grid;
+    justify-content: center;
+    
+}
+
+.menu--options {
+    display: grid;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    align-items: center;
+    align-content: center;
+
+}
+
+.menu--options a {
+    margin-left: 40px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2rem;
+    text-transform: capitalize;
+}
+
+.btn-primary {
+    margin-bottom: 30px;
+    border: none;
+    background-color: rgb(50, 169, 224);
+    width: 170px;
+    height: 40px;
+    border-radius: 30px;
+    font-weight: bold;
+    color: #fff;
+    text-transform: capitalize;
+}
+
+.profile--section {
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    color: #fff;
+}
+
+.profile--section .name-aroba {
+    position: relative;
+    margin-top: 5px;
+}
