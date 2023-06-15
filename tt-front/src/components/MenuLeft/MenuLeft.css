@@ -1,5 +1,5 @@
 .icon-tt {
-    width: 50px;
+    width: 36px;
     margin-top: 20px;
 }
 
@@ -14,7 +14,7 @@
 }
 
 .menuleft-container{
-    width: 15%;
+    width: 20%;
     height: 100vh;
     border-right: 1px solid #ffffff2f;
     display: grid;

@@ -1,0 +1,7 @@
+.rightbar--section {
+  position: relative;
+  float: right;
+  width: 20%;
+  height: 100vh;
+  border-left: 1px solid #ffffff34;
+}
