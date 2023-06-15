@@ -4,4 +4,34 @@
   width: 20%;
   height: 100vh;
   border-left: 1px solid #ffffff34;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
+
+.search--section input {
+  height: 40px;
+  width: 250px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 20px;
+  background-color: #ffffff18;
+  color: #fff;
+  text-indent: 35px;
+}
+
+
+.search--section ::placeholder {
+  color: #fff;
+}
+
+.search--section .bi-search {
+  position: absolute;
+  top: 21px;
+  left: 68px;
+  z-index: 2;
+  color: rgb(255, 255, 255);
+  font-size: 1.2rem;
+}
+
