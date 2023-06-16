@@ -1,0 +1,8 @@
+.home__component {
+  width: 50%;
+  margin: 0 auto;
+  border-left: 1px solid #ffffff3d;
+  border-right: 1px solid #ffffff3d;
+  height: 100vh;
+  position: relative;
+}
