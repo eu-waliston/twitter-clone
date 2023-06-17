@@ -6,3 +6,26 @@
   height: 100vh;
   position: relative;
 }
+
+.home {
+  padding: 10px;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+}
+
+.home h1 {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.home .bi {
+  color: rgb(27, 105, 223);
+  font-size: 1.8rem;
+}
+
+.separator {
+  width: 100%;
+  height: 1px;
+  background-color: #ffffff3f;
+}
