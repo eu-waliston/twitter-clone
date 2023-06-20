@@ -1,10 +1,10 @@
 import React from "react";
-import "./MenuLeft.css";
+import "./Menu.css";
 
-const MenuLeft = () => {
+const Menu = () => {
     return (
-        <div className="menuleft-container">
-            <div className="menu--itens">
+        <div className="menu-container">
+            <div className="menuleft--itens">
                 <img src={require("../Images/logo-twitter-png.png")} alt="icone twitter" className="icon-tt"/>
                 <div className="menu--options">
 
@@ -63,10 +63,12 @@ const MenuLeft = () => {
                 </div>
 
             </div>
-
+            <div className="menuright--itens">
+                
+            </div>
         </div>
     )
 }
 
 
-export default MenuLeft;
+export default Menu;
