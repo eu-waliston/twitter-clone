@@ -16,3 +16,28 @@
 - Responsive design for mobile, tablet, and desktop
 - Users can customize the site color scheme and color background
 - All images uploads are stored on Firebase Cloud Storage
+
+### Frontend:  
+    - ReactJS
+    - Scss
+    - React Router Dom
+    - React Icons 
+    - Css
+    - Styled Componets
+    - Font Aweasome
+### Backend 
+    - NodeJS
+    - Express
+    - Passport 
+    - Helment 
+    - MongoDB
+    - Mongoose
+
+### Hospegadem
+    - Vercel
+
+### LINKS:
+
+FRONT (somente o front da aplicação que fora hospedato utilizando o Vercel)
+
+https://twitter-clone-xi-smoky.vercel.app/
